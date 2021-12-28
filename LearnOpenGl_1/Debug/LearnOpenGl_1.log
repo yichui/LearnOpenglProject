@@ -1,0 +1,4 @@
+﻿  Application.cpp
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  LearnOpenGl_1.vcxproj -> E:\study\opengl\LearnOpenGl_1\Debug\LearnOpenGl_1.exe

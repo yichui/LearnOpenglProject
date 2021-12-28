@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(GLFirstWindow.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Application.cpp
+  glad.c
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  GLFirstWindow.vcxproj -> E:\study\opengl\LearnOpenGl_1\Debug\1_GLFirstWindow.exe

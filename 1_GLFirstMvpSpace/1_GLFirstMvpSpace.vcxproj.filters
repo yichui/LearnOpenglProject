@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{936d440a-0390-444d-bb38-a1231843bc2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{47810ca8-725f-4991-915e-8209e53b1b06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{98fdcb80-daf3-49fe-86c4-2092a511e33d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ShaderFactory.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\stb_image.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\glad.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\imageload.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\coordinate_1.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="shaders\test_frag_shader.txt">
+      <Filter>shaders</Filter>
+    </Text>
+    <Text Include="shaders\test_vert_shader.txt">
+      <Filter>shaders</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\awesomeface.png">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="resources\container.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="resources\wall.jpg">
+      <Filter>resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

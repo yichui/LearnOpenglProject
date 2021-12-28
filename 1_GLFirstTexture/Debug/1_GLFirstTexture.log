@@ -1,0 +1,5 @@
+﻿  Application2.cpp
+e:\study\opengl\learnproject\learnopengl_1\1_glfirsttexture\src\shaderfactory.h(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\study\opengl\learnproject\learnopengl_1\1_glfirsttexture\src\shaderfactory.h(46): warning C4101: “e”: 未引用的局部变量
+e:\study\opengl\learnproject\learnopengl_1\1_glfirsttexture\src\application2.cpp(11): warning C4305: “初始化”: 从“double”到“float”截断
+  1_GLFirstTexture.vcxproj -> E:\Study\opengl\learnProject\LearnOpenGl_1\Debug\1_GLFirstTexture.exe

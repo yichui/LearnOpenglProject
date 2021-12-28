@@ -1,0 +1,4 @@
+﻿  coordinate_1.cpp
+e:\study\opengl\learnopengl_1\1_glfirstmvpspace\src\shaderfactory.h(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\study\opengl\learnopengl_1\1_glfirstmvpspace\src\shaderfactory.h(46): warning C4101: “e”: 未引用的局部变量
+  1_GLFirstMvpSpace.vcxproj -> E:\study\opengl\LearnOpenGl_1\Debug\1_GLFirstMvpSpace.exe

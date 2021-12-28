@@ -1,0 +1,13 @@
+﻿  camera_1.cpp
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\shaderfactory.h(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\shaderfactory.h(46): warning C4101: “e”: 未引用的局部变量
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(151): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(152): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(472): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(473): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(477): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(478): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(479): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\study\opengl\learnopengl_1\1_glfirstcamera\src\camera_1.cpp(480): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  1_GLFirstCamera.vcxproj -> E:\study\opengl\LearnOpenGl_1\Debug\1_GLFirstCamera.exe
